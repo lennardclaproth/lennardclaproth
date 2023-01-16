@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lennardclaproth&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lennardclaproth&theme=material-palenight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lennardclaproth&layout=compact&text_color=a6accc&bg_color=292d3e&title_color=c692e8)
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app.app/api/top-langs/?username=lennardclaproth&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
